@@ -4,11 +4,11 @@
 
 ## Analysts
 
-Payson Cushman
+*Payson Cushman*
 
-Vandrea Foronda
+*Vandrea Foronda*
 
-Mina Kemmer-Lee 
+*Mina Kemmer-Lee* 
 
 
 ## Summary
