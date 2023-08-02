@@ -24,13 +24,17 @@ Census tracts with a greater population of families with lower incomes are more 
 
 Overall, of the 25 counties on which we focused, there were only 5 counties that saw a significant increase (over 5%) in low access, most of them rural or agricultural.
 
-County       FIPS
-Madera       6039     5.25%
-Merced       6047     9.52%
-San Joaquin  6077    11.17%
-Amador       6005    12.13%
-Calaveras    6009    17.17%
+**County       FIPS**
 
+Madera       6039     5.25%
+
+Merced       6047     9.52%
+
+San Joaquin  6077    11.17%
+
+Amador       6005    12.13%
+
+Calaveras    6009    17.17%
 
 At the start of our analysis, we expected that as access decreased, fast food options would flourish and grocery stores to suffer, health problems would be persistent, and that demographics would be one of the largest determining factors. We found the results of our analysis to be more nuanced. Negative health indicators were more determined by income than by limited ability to source healthy food.  While demographics were indeed important variables, the population’s income and geography were the more conspicuous determinates of a county’s low access score. 
 
@@ -47,7 +51,9 @@ We found that over the 5 years from 2010 to 2015, two of the three of Northern C
 
 Pie Chart 1 - All Counties 2010 Population by Access and Low Income Low Access 
 
-Pie Chart 2 -  All Counties 2015 Population by Access and Low Income Low Access
+https://github.com/PsCushman/food-deserts-ca/blob/main/Outputs/AllCounties_2010Pop_byAccessandIncome.png
+
+Pie Chart 2 -  All Counties 2015 Population by Access and Low Income Low Access (https://github.com/PsCushman/food-deserts-ca/blob/main/Outputs/AllCounties_2015Pop_byAccessandIncome.png)
 
  In both the Bay Area and the Central Valley, we saw a decrease from in the population of people with low-income and low access residents. The Sacramento region showed the least progress, while the Bay Area showed the most. (See fig…) 
 
