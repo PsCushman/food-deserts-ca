@@ -134,8 +134,6 @@ The correlation coefficient was a very strong (0.93) and while the p-value was n
 
 While it is not surprising, it is important to stress that in almost all the data, low-income populations of the same cohorts, whether by race, age or geography, tended to see lower access to healthy food options than those with higher incomes. While the limitations of this data have been addressed earlier in this summary, Northern California’s policy makers should do more to increase access to healthy food options for the populations where economic insecurity (and consequently food insecurity) are at their highest. 
 
-![image](https://github.com/PsCushman/food-deserts-ca/assets/122395437/34ab5084-ae63-43b6-ab32-4108d6451c65)
-
 ## Resources
 Each participant has their own folder with their code and outputs if that is something you'd like to check. (PSC=Payson, MKL=Mina, Drea Project=Vandrea) The presentation and analysis was worked on by all participants. We did have to split up maps into two notebook because the map files can be quite big when it includes figures. All outputs should be in the out put folder, but again, if there are any issues, please check our respective folders.
 
