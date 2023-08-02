@@ -53,9 +53,11 @@ Pie Chart 1 - All Counties 2010 Population by Access and Low Income Low Access
 
 https://github.com/PsCushman/food-deserts-ca/blob/main/Outputs/AllCounties_2010Pop_byAccessandIncome.png
 
-Pie Chart 2 -  All Counties 2015 Population by Access and Low Income Low Access (https://github.com/PsCushman/food-deserts-ca/blob/main/Outputs/AllCounties_2015Pop_byAccessandIncome.png)
+Pie Chart 2 -  All Counties 2015 Population by Access and Low Income Low Access 
 
- In both the Bay Area and the Central Valley, we saw a decrease from in the population of people with low-income and low access residents. The Sacramento region showed the least progress, while the Bay Area showed the most. (See fig…) 
+https://github.com/PsCushman/food-deserts-ca/blob/main/Outputs/AllCounties_2015Pop_byAccessandIncome.png
+
+In both the Bay Area and the Central Valley, we saw a decrease from in the population of people with low-income and low access residents. The Sacramento region showed the least progress, while the Bay Area showed the most. 
 
 
 Additionally, while the Sacramento region saw an increase in the population with low access to healthful foods, it was not dramatic. It also contained two of the five counties with the largest decrease in access. The region also had almost no overall population change, meaning that it was the only region to not see a large increase in population in the three on which we centered our attention. As we will see, this might be the biggest indicator of the rise in low access percentages. 
@@ -63,10 +65,10 @@ Additionally, while the Sacramento region saw an increase in the population with
 
 **Access, Groceries, and Ronald**
 
-The presence of grocery store and superstore access are two of the most important indicators of low access to healthy food options. As access decreased so did grocery stores, but not as drastically as we expected. (see fig…)
+The presence of grocery store and superstore access are two of the most important indicators of low access to healthy food options. As access decreased so did grocery stores, but not as drastically as we expected. 
 
 
-However, fast food options stayed more or less constant in Northern CA even as other options, grocery stores for example, decreased, leaving counties with low access scores, higher access to fast food in comparison to other healthy options. When comparing increases in low access to increases in fast food, we had a p-value of significantly less than .05 and a correlation coefficient of essentially zero (-.01)  (see fig…)
+However, fast food options stayed more or less constant in Northern CA even as other options, grocery stores for example, decreased, leaving counties with low access scores, higher access to fast food in comparison to other healthy options. When comparing increases in low access to increases in fast food, we had a p-value of significantly less than .05 and a correlation coefficient of essentially zero (-.01)  
 
 
 **Demographics**
@@ -77,42 +79,50 @@ Expectedly, low-income populations were mostly likely to with low access.
 In addition, while rural communities saw the greatest increases in low access, there was also evidence that as the percent of minority community increased, low access increased as well. 
 
 
-Overall, we found a moderate negative correlation between the percentage of White residents and low access scores. While communities with a larger percentage of Black, Asian, and Hispanic communities saw lower access to healthy food options in 2015 and their respective populations increased. Counties with larger White populations saw higher access to healthy food options. In contrast, we saw that for every other demographic, that county wide access decreased or stayed constant as their population increased. (see fig…)
+Overall, we found a moderate negative correlation between the percentage of White residents and low access scores. While communities with a larger percentage of Black, Asian, and Hispanic communities saw lower access to healthy food options in 2015 and their respective populations increased. Counties with larger White populations saw higher access to healthy food options. In contrast, we saw that for every other demographic, that county wide access decreased or stayed constant as their population increased.
+
+https://github.com/PsCushman/food-deserts-ca/blob/Dre/Outputs/scatterplot_race_and_food_access_data_2010.png
 
 
-That said, the median percentage of access by race was highest in White communities and Latino populations, implying that while low access my increase as communities include more minorities, Whites and Latinos see the least amount of access that other groups on average in Northern California. (see fig…)
+That said, the median percentage of access by race was highest in White communities and Latino populations, implying that while low access my increase as communities include more minorities, Whites and Latinos see the least amount of access that other groups on average in Northern California. 
 
+![Screen Shot 2023-08-01 at 10 56 48 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/5a823214-7cf7-47a7-a109-5eaee111f2fa)
 
-Communities with a larger share of seniors had a negative correlation with low access, which is a positive sign. However, communities with a higher concentration of children (under 18) had a moderate positive correlation to low access with an even more pronounced relationship in low-income areas, which is scary. (see fig…)
+Communities with a larger share of seniors had a negative correlation with low access, which is a positive sign. However, communities with a higher concentration of children (under 18) had a moderate positive correlation to low access with an even more pronounced relationship in low-income areas, which is scary. 
 
+https://github.com/PsCushman/food-deserts-ca/blob/Dre/Outputs/scatterplot_65_vs_18_and_food_access_data_2010.png
 
-Where were found a very strong correlation is when we looked at change in access and change in low-income population. As the percentage of low access population increased, so did the population of low-income communities with low access. While this may seem obvious, it is important to point out that the changes are strongest in in places where money is in shorter supply. It is noteworthy that access to healthy food is poorest in areas with the highest income security, which underscores the need for policy interventions aimed at improving access to healthy food for all. (see fig…)
+Where were found a very strong correlation is when we looked at change in access and change in low-income population. As the percentage of low access population increased, so did the population of low-income communities with low access. While this may seem obvious, it is important to point out that the changes are strongest in in places where money is in shorter supply. It is noteworthy that access to healthy food is poorest in areas with the highest income security, which underscores the need for policy interventions aimed at improving access to healthy food for all.
 
 
 **Health**
 
-Interestingly, we did not see much of a correlation between health indicators such as diabetes and low access. The regions in Northern California compare favorably to access able data for the US, where low access is linked to increases in those indicators.  But we did find a weak correlation between increases in diabetes and increases in low access. (see fig…)
+Interestingly, we did not see much of a correlation between health indicators such as diabetes and low access. The regions in Northern California compare favorably to access able data for the US, where low access is linked to increases in those indicators.  But we did find a weak correlation between increases in diabetes and increases in low access. 
 
 
-While we expected more positive correlation between low access and a negative health indicator, diabetes, but we also found a low correlation between household income and diabetes. (see fig…) 
+While we expected more positive correlation between low access and a negative health indicator, diabetes, but we also found a low correlation between household income and diabetes. 
 
 
 **Rural v. Metro**
 
-We found a low correlation (-0.36) with a low p-values (0.000007) between counties with population loss and an increase in low access scores. (see fig..)
+We found a low correlation (-0.36) with a low p-values (0.000007) between counties with population loss and an increase in low access scores. 
 
+![Screen Shot 2023-08-01 at 10 53 58 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/9e1da75a-2d30-4a44-930c-5b4e32289a86)
 
 In addition, there was a low correlation (-0.34)  with a low p-value (0.000500) between the population totals and change in low access.  This suggests, that while there are still plenty of communities facing low access to healthy foods in metro areas, rural areas have tended to see the greatest negative impacts of changes over the past decades. 
-(see fig...)
 
+![Screen Shot 2023-08-01 at 10 54 25 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/88473d6f-b3fb-466b-93a9-e1d5c86cd1f6)
 
 In rural counties, grocery stores tended to be clustered around populated areas and resulted in long drives for people living off less populated roads. In Calaveras, where we saw the greatest increase in low access, you can see this illustrated in the two maps below.
 
 
 Map 1: Calveras County with all its supermarkets and superstores, terrain and roads.
 
-Map 2: Calveras County and all its supermarkets and superstores, borders, and roads.
+![Screen Shot 2023-08-01 at 10 51 14 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/6a8b2021-5c6e-44e1-92c0-c1cca11637ca)
 
+Map 2: Calveras County and all its supermarkets and superstores, *borders*, and roads.
+
+![Screen Shot 2023-08-01 at 10 52 10 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/793db6db-0302-4048-8c2c-2f1ce4f88044)
 
 In both maps, you can clearly see large chunks of Calaveras County where there are roads, even relatively well traveled roads, and no grocery stores for miles. 
 
@@ -130,15 +140,21 @@ The exploration of demographics produced more varied results. It was obvious tha
 
 In each of the following figures, the steeper correlations between low access to food and the low-income corresponding cohort is obvious. Figure one is shows steeper lines in the lower income of children. Figure two shows the same with demographics, where the lines for the White and Hispanic populations are much more dramatic in low-income group. 
 
+**Figure One:** https://github.com/PsCushman/food-deserts-ca/blob/Dre/Outputs/scatterplot_65_vs_18_and_low_income_food_access_data_2010.png
+
+**Figure Two:** https://github.com/PsCushman/food-deserts-ca/blob/Dre/Outputs/scatterplot_65_vs_18_and_low_income_food_access_data_2010.png
 
 Of all the relationships we explored, the relationship between change in access and change low-income access may have been the strongest. 
 
- 
+![Screen Shot 2023-08-01 at 10 49 00 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/1bf05105-0341-4263-aad4-7830c03a04b3)
+
 Correlation coefficient: 0.93
+
 P-value: 0.145480
 
 The correlation coefficient was a very strong (0.93) and while the p-value was not as low as some others, when we expanded the data set to all of California, the correlation remained strong and the p-value decreased considerably (Correlation coefficient: 0.74, P-value: 0.015667) so we feel confident the significance of this relationship at the county level. (see fig…)
 
+![Screen Shot 2023-08-01 at 10 49 32 PM](https://github.com/PsCushman/food-deserts-ca/assets/122395437/7bbed6b0-b3b9-4b3b-b721-956b2f623001)
 
 While it is not surprising, it is important to stress that in almost all the data, low-income populations of the same cohorts, whether by race, age or geography, tended to see lower access to healthy food options than those with higher incomes. While the limitations of this data have been addressed earlier in this summary, Northern California’s policy makers should do more to increase access to healthy food options for the populations where economic insecurity (and consequently food insecurity) are at their highest. 
 
