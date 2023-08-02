@@ -5,7 +5,9 @@
 ## Analysts
 
 Payson Cushman
-Vandrea Foronda 
+
+Vandrea Foronda
+
 Mina Kemmer-Lee 
 
 
@@ -20,7 +22,7 @@ In our analysis, high food desert scores in Northern California tend to come fro
 Census tracts with a greater population of families with lower incomes are more likely to be food deserts but, in our analysis, otherwise similar low-income census counties in rural areas had higher low access scores than counties with very dense and highly populated urban areas. Further, counties with smaller populations and/or with population loss, saw on average, higher decreases of access to healthy food options. 
 
 
-Overall, of the 25 counties on which we focused, there were only 5 counties that saw a significant increase (over 5%) in low access, most of them rural or agricultural. (see fig…)
+Overall, of the 25 counties on which we focused, there were only 5 counties that saw a significant increase (over 5%) in low access, most of them rural or agricultural.
 
 County       FIPS
 Madera       6039     5.25%
@@ -39,7 +41,7 @@ First, the data sets we used provided data at the county level, so this does not
 
 ## Evidence
 
-Regional Differences
+**Regional Differences**
 
 We found that over the 5 years from 2010 to 2015, two of the three of Northern California’s regions did better and had a smaller population that lived in areas with low access.
 
@@ -53,7 +55,7 @@ Pie Chart 2 -  All Counties 2015 Population by Access and Low Income Low Access
 Additionally, while the Sacramento region saw an increase in the population with low access to healthful foods, it was not dramatic. It also contained two of the five counties with the largest decrease in access. The region also had almost no overall population change, meaning that it was the only region to not see a large increase in population in the three on which we centered our attention. As we will see, this might be the biggest indicator of the rise in low access percentages. 
 
 
-Access, Groceries, and Ronald
+**Access, Groceries, and Ronald**
 
 The presence of grocery store and superstore access are two of the most important indicators of low access to healthy food options. As access decreased so did grocery stores, but not as drastically as we expected. (see fig…)
 
@@ -61,7 +63,7 @@ The presence of grocery store and superstore access are two of the most importan
 However, fast food options stayed more or less constant in Northern CA even as other options, grocery stores for example, decreased, leaving counties with low access scores, higher access to fast food in comparison to other healthy options. When comparing increases in low access to increases in fast food, we had a p-value of significantly less than .05 and a correlation coefficient of essentially zero (-.01)  (see fig…)
 
 
-Demographics
+**Demographics**
 
 Expectedly, low-income populations were mostly likely to with low access. 
 
@@ -81,7 +83,7 @@ Communities with a larger share of seniors had a negative correlation with low a
 Where were found a very strong correlation is when we looked at change in access and change in low-income population. As the percentage of low access population increased, so did the population of low-income communities with low access. While this may seem obvious, it is important to point out that the changes are strongest in in places where money is in shorter supply. It is noteworthy that access to healthy food is poorest in areas with the highest income security, which underscores the need for policy interventions aimed at improving access to healthy food for all. (see fig…)
 
 
-Health
+**Health**
 
 Interestingly, we did not see much of a correlation between health indicators such as diabetes and low access. The regions in Northern California compare favorably to access able data for the US, where low access is linked to increases in those indicators.  But we did find a weak correlation between increases in diabetes and increases in low access. (see fig…)
 
@@ -89,7 +91,7 @@ Interestingly, we did not see much of a correlation between health indicators su
 While we expected more positive correlation between low access and a negative health indicator, diabetes, but we also found a low correlation between household income and diabetes. (see fig…) 
 
 
-Rural v. Metro
+**Rural v. Metro**
 
 We found a low correlation (-0.36) with a low p-values (0.000007) between counties with population loss and an increase in low access scores. (see fig..)
 
